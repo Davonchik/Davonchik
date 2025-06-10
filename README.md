@@ -18,5 +18,5 @@
 - [🧠 CheckYourUniveristy]([https://github.com/...](https://gitlab.com/course_work8744107/check_your_university_project)) — Web service for monitoring the condition of premises at the National Research University Higher School of Economics: server side.
 
 ## 📫 Contact
-- Telegram: [@your_username](https://t.me/daslanian)
+- Telegram: [@daslanian](https://t.me/daslanian)
 - Email: dav4345y4ndex.ru@yandex.ru
