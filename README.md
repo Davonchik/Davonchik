@@ -13,9 +13,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonchik&show_icons=true&theme=radical)
 
 ## 📌 Projects (for instance 3 of them)
-- [🚀 ShopMicroservices]([https://github.com/...](https://github.com/Davonchik/ShopMicroservices)) — Order and Payment microservices with async connection with Kafka.
-- [🔗 Analyze-String-Sorts]([https://github.com/...](https://github.com/Davonchik/Analyze-String-Sorts)) — Research project - analyzing string sorts.
-- [🧠 CheckYourUniveristy]([https://github.com/...](https://gitlab.com/course_work8744107/check_your_university_project)) — Web service for monitoring the condition of premises at the National Research University Higher School of Economics: server side.
+- [🚀 ShopMicroservices](https://github.com/Davonchik/ShopMicroservices) — Order and Payment microservices with async connection with Kafka.
+- [🔗 Analyze-String-Sorts](https://github.com/Davonchik/Analyze-String-Sorts) — Research project - analyzing string sorts.
+- [🧠 CheckYourUniveristy](https://gitlab.com/course_work8744107/check_your_university_project) — Web service for monitoring the condition of premises at the National Research University Higher School of Economics: server side.
 
 ## 📫 Contact
 - Telegram: [@daslanian](https://t.me/daslanian)
