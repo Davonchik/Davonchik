@@ -9,9 +9,6 @@
 - DevOps: Docker, GitHub Actions, GitLab CI/CD
 - Architecture: Clean Architecture, Microservices, DDD, etc...
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonchik&show_icons=true&theme=radical)
-
 ## 📌 Projects (for instance 3 of them)
 - [🚀 ShopMicroservices](https://github.com/Davonchik/ShopMicroservices) — Order and Payment microservices with async connection with Kafka.
 - [🔗 Analyze-String-Sorts](https://github.com/Davonchik/Analyze-String-Sorts) — Research project - analyzing string sorts.
