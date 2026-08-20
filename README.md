@@ -1,32 +1,32 @@
 Hello! 👋 I’m David Aslanyan
 
-I’m a Backend / AI Engineer focused on building reliable backend services, AI-powered systems, and scalable product architectures.
+I’m a Backend / AI Engineer focused on building reliable backend systems, AI-powered products, and scalable architectures.
 
-I work with backend development, microservices, distributed systems, LLM integrations, and engineering practices that help turn ideas into production-ready products.
-
-My main focus is writing clean, maintainable code, designing robust systems, and constantly improving as an engineer.
+I don’t just want to write code — I want to master engineering, build products, and eventually build a company of global scale.
 
 🛠️ Tech Stack
 
-Backend: Python, FastAPI, Go, C++, C#, ASP.NET, REST API, async programming
-AI / LLM: AI agents, LLM integrations, MCP, prompt engineering, RAG basics
-Databases: PostgreSQL, SQLite, SQL
-Message Brokers & Storage: Kafka, MinIO
-DevOps: Docker, GitHub Actions, GitLab CI/CD
-Architecture: Clean Architecture, Microservices, DDD, System Design
+Backend: Python, FastAPI, Go, C++, C#, ASP.NET, REST API, Async Programming
+AI / LLM: AI Agents, LLM Integrations, MCP, Prompt Engineering, RAG
+Databases: PostgreSQL, SQLite, SQL, ClickHouse, Redis, MongoDB
+Infrastructure: Kafka, MinIO, Docker, GitHub Actions, GitLab CI/CD
+Architecture: Microservices, Clean Architecture, DDD, System Design
 
 📌 Projects
 
-* 🚀 ShopMicroservices — Order and Payment microservices with asynchronous communication via Kafka.
-* 🔗 Analyze-String-Sorts — Research project focused on analyzing and comparing string sorting algorithms.
-* 🧠 CheckYourUniversity — Backend part of a web service for monitoring the condition of university premises at HSE.
+* 🚀 ShopMicroservices — Order & Payment microservices with asynchronous Kafka communication.
+* 🔗 Analyze-String-Sorts — Research project for analyzing and comparing string sorting algorithms.
+* 🧠 CheckYourUniversity — Backend of a university infrastructure monitoring service.
 
 🚀 Current Focus
 
-* Backend engineering with Python, FastAPI and Go
-* AI-powered backend services and agent-based systems
-* Scalable architecture, microservices and system design
-* Open-source projects, real-world products and continuous engineering growth
+* Backend & distributed systems
+* AI agents and AI-powered products
+* High-load architecture & system design
+* Building real-world products
+* Becoming an exceptional engineer
+
+Build. Learn. Improve. Repeat.
 
 📫 Contact
 
